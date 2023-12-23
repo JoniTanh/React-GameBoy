@@ -128,8 +128,8 @@ const CircleContainer = () => {
   const circlePositions = [
     { top: "30px", right: "50px" },
     { top: "30px", left: "50px" },
-    { bottom: "480px", right: "50px" },
-    { bottom: "480px", left: "50px" },
+    { bottom: "385px", right: "50px" },
+    { bottom: "385px", left: "50px" },
   ];
 
   return (
